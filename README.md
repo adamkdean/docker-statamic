@@ -1,12 +1,6 @@
 # Dockerized Statamic
 
-This project provides a dockerized version of the popular CMS [Statamic](https://statamic.com/). It allows you to easily run Statamic in a Docker container.
-
-## Prerequisites
-
-Before using this project, ensure that you have the following:
-
-- Docker installed on your machine
+This project provides a dockerized version of the popular CMS [Statamic](https://statamic.com/). It allows you to easily run Statamic in a Docker container. The image is available on [Docker Hub](https://hub.docker.com/r/adamkdean/statamic).
 
 ## Usage
 
